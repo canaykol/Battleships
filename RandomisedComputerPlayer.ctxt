@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RandomisedComputerPlayer()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Strategy\r\n
+comment1.params=
+comment1.target=boolean\ makeMove()
+comment2.params=
+comment2.target=void\ choosePlaces()
+numComments=3

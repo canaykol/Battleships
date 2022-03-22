@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=OptimisedComputerPlayer(java.lang.Integer)
+comment1.params=
+comment1.target=boolean\ makeMove()
+comment2.params=
+comment2.target=void\ choosePlaces()
+comment3.params=onlyHorizontal
+comment3.target=Position\ directionSelection(boolean)
+comment4.params=i
+comment4.target=java.lang.String\ createName(int)
+numComments=5

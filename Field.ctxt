@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=xCoor\ yCoor
+comment0.target=Field(int,\ int)
+comment0.text=\r\n\ Constructs\ a\ Field\ from\ specified\ x\ and\ y\ coordinates.\r\n
+comment1.params=p
+comment1.target=Field(Position)
+comment1.text=\r\n\ Constructs\ a\ Field\ from\ a\ specified\ Position\r\n
+comment2.params=
+comment2.target=void\ addShip()
+comment2.text=\r\n\ Makes\ hasShip\ true.\r\n
+comment3.params=
+comment3.target=boolean\ fire()
+comment3.text=\r\n\ Makes\ hasBeenFired\ true.\r\n\ @returns\ true\ if\ there\ is\ also\ a\ ship\ placed\ in\ the\ field.\r\n
+comment4.params=
+comment4.target=boolean\ hasShip()
+comment4.text=\r\n\ @returns\ hasShip.\r\n
+comment5.params=
+comment5.target=boolean\ hasBeenFired()
+comment5.text=\r\n\ @returns\ hasBeenFired.\r\n
+comment6.params=
+comment6.target=Position\ getLocation()
+comment6.text=\r\n\ @returns\ the\ location\ of\ the\ Field\ as\ a\ Position\ object.\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ @returns\ a\ textual\ representation\ of\ the\ object\ in\ a\ string.\r\n
+numComments=8
